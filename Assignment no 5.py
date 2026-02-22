@@ -30,4 +30,5 @@ if __name__ == "__main__":
     account.check_balance
     account.deposite(6000)
     account.withdraw(4000)
+
     account.check_balance()
